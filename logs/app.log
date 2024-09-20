@@ -1,0 +1,411 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.28:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 20:04:48] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 20:04:49] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.28:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 862-302-684
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.28:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 862-302-684
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 20:10:42] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 20:10:42] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.28:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 862-302-684
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 14:35:50] "OPTIONS /ping HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 14:35:51] "POST /ping HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 14:37:51] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:root:Loaded checkpoint sucessfully
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 14:37:52] "[35m[1mPOST /instantiate HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 14:37:54] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 14:37:54] "OPTIONS /ping HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 14:37:55] "[35m[1mPOST /ping HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 14:38:00] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 14:38:01] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 14:38:01] "OPTIONS /ping HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 14:38:01] "[35m[1mPOST /ping HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 14:38:05] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 14:38:05] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 14:38:05] "[35m[1mPOST /ping HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 14:38:05] "[35m[1mPOST /ping HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.28:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 862-302-684
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 14:39:29] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 14:39:29] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:root:Loaded checkpoint sucessfully
+INFO:root:Loaded checkpoint sucessfully
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 14:39:31] "[35m[1mPOST /instantiate HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 14:39:31] "[35m[1mPOST /instantiate HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\mathi\\Desktop\\sam2_test\\segment-anything-2\\app\\utils.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 862-302-684
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.28:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 862-302-684
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 14:42:26] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 14:42:26] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:root:Loaded checkpoint sucessfully
+INFO:root:Loaded checkpoint sucessfully
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 14:42:27] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 14:42:27] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 14:43:08] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 14:43:08] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 14:43:19] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 14:43:19] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 14:44:00] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 14:44:00] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 14:44:04] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 14:44:18] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 14:44:18] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 14:44:22] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\mathi\\Desktop\\sam2_test\\segment-anything-2\\app\\utils.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.28:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 862-302-684
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:06:44] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:06:44] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:root:Loaded checkpoint sucessfully
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:06:46] "POST /instantiate HTTP/1.1" 200 -
+INFO:root:Loaded checkpoint sucessfully
+INFO:root:Loaded checkpoint sucessfully
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:06:47] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:06:47] "POST /instantiate HTTP/1.1" 200 -
+INFO:root:Loaded checkpoint sucessfully
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:06:47] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:07:48] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:07:48] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:07:48] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:07:48] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:08:24] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:08:24] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:08:24] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:08:25] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:08:25] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:08:58] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:08:59] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:08:59] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:08:59] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:09:00] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\mathi\\Desktop\\sam2_test\\segment-anything-2\\app\\client_management.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 862-302-684
+INFO:werkzeug: * Detected change in 'C:\\Users\\mathi\\Desktop\\sam2_test\\segment-anything-2\\app\\model.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 862-302-684
+INFO:werkzeug: * Detected change in 'C:\\Users\\mathi\\Desktop\\sam2_test\\segment-anything-2\\app\\model.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 862-302-684
+INFO:werkzeug: * Detected change in 'C:\\Users\\mathi\\Desktop\\sam2_test\\segment-anything-2\\app\\client_management.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 862-302-684
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.28:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 862-302-684
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:13:12] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:13:12] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:13:13] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:13:13] "POST /predict HTTP/1.1" 200 -
+INFO:root:Loaded checkpoint sucessfully
+INFO:root:Loaded checkpoint sucessfully
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:13:14] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:13:14] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:14:35] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:14:35] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:14:35] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:14:35] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:14:36] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:For numpy array image, we assume (HxWxC) format
+INFO:root:Computing image embeddings for the provided image...
+INFO:root:Image embeddings computed.
+INFO:root:Prédiction effectuée
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:15:36] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\mathi\\Desktop\\sam2_test\\segment-anything-2\\app\\model.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 862-302-684
+INFO:werkzeug: * Detected change in 'C:\\Users\\mathi\\Desktop\\sam2_test\\segment-anything-2\\app\\model.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 862-302-684
+INFO:werkzeug: * Detected change in 'C:\\Users\\mathi\\Desktop\\sam2_test\\segment-anything-2\\app\\model.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 862-302-684
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:19:36] "OPTIONS /ping HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:19:36] "OPTIONS /ping HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:19:36] "POST /ping HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:19:36] "POST /ping HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\mathi\\Desktop\\sam2_test\\segment-anything-2\\app\\client_management.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 862-302-684
+INFO:werkzeug: * Detected change in 'C:\\Users\\mathi\\Desktop\\sam2_test\\segment-anything-2\\app\\model.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 862-302-684
+INFO:werkzeug: * Detected change in 'C:\\Users\\mathi\\Desktop\\sam2_test\\segment-anything-2\\app\\model.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 862-302-684
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.28:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 862-302-684
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:23:09] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:23:09] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:23:10] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:23:10] "POST /predict HTTP/1.1" 200 -
+INFO:root:Loaded checkpoint sucessfully
+INFO:root:Loaded checkpoint sucessfully
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:23:11] "[35m[1mPOST /instantiate HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:23:12] "[35m[1mPOST /instantiate HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\mathi\\Desktop\\sam2_test\\segment-anything-2\\app\\model.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.28:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 862-302-684
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:30:01] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:30:01] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:root:using device: cuda
+INFO:root:using device: cuda
+INFO:root:Loaded checkpoint sucessfully
+INFO:root:Loaded checkpoint sucessfully
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:30:02] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:30:02] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\mathi\\Desktop\\sam2_test\\segment-anything-2\\app\\model.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 862-302-684
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.28:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 862-302-684
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:31:38] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:31:38] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:root:using device: cuda
+INFO:root:using device: cuda
+INFO:root:Loaded checkpoint sucessfully
+INFO:root:Loaded checkpoint sucessfully
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:31:39] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:31:39] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:31:59] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:31:59] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:31:59] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:32:00] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:1
+INFO:root:2
+INFO:root:For numpy array image, we assume (HxWxC) format
+INFO:root:Computing image embeddings for the provided image...
+INFO:root:Image embeddings computed.
+INFO:root:Prédiction effectuée
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:32:53] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\mathi\\Desktop\\sam2_test\\segment-anything-2\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 862-302-684
+INFO:werkzeug: * Detected change in 'C:\\Users\\mathi\\Desktop\\sam2_test\\segment-anything-2\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.28:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 862-302-684
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:35:01] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:35:01] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:root:using device: cuda
+INFO:root:using device: cuda
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:35:01] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:35:02] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:root:Loaded checkpoint sucessfully
+INFO:root:Loaded checkpoint sucessfully
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:35:03] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:35:03] "[35m[1mPOST /instantiate HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\mathi\\Desktop\\sam2_test\\segment-anything-2\\app\\model.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 862-302-684
+INFO:werkzeug: * Detected change in 'C:\\Users\\mathi\\Desktop\\sam2_test\\segment-anything-2\\app\\client_management.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.28:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 862-302-684
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:37:23] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:37:23] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:root:using device: cuda
+INFO:root:using device: cuda
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:37:23] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:37:24] "POST /predict HTTP/1.1" 200 -
+INFO:root:Loaded checkpoint sucessfully
+INFO:root:Loaded checkpoint sucessfully
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:37:25] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:37:25] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:37:32] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:37:32] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:37:33] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:37:33] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:37:33] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:1
+INFO:root:2
+INFO:root:For numpy array image, we assume (HxWxC) format
+INFO:root:Computing image embeddings for the provided image...
+INFO:root:Image embeddings computed.
+INFO:root:Prédiction effectuée
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:38:23] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\mathi\\Desktop\\sam2_test\\segment-anything-2\\app\\client_management.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 862-302-684
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.28:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 862-302-684
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:40:01] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:40:01] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:40:01] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:40:02] "POST /predict HTTP/1.1" 200 -
+INFO:root:using device: cuda
+INFO:root:using device: cuda
+INFO:root:Loaded checkpoint sucessfully
+INFO:root:Loaded checkpoint sucessfully
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:40:03] "[35m[1mPOST /instantiate HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:40:03] "[35m[1mPOST /instantiate HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:40:10] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:40:10] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:root:using device: cuda
+INFO:root:using device: cuda
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:40:10] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:40:11] "POST /predict HTTP/1.1" 200 -
+INFO:root:Loaded checkpoint sucessfully
+INFO:root:Loaded checkpoint sucessfully
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:40:11] "[35m[1mPOST /instantiate HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:40:11] "[35m[1mPOST /instantiate HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.28:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 862-302-684
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:40:27] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:40:27] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:40:27] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:40:27] "POST /predict HTTP/1.1" 200 -
+INFO:root:using device: cuda
+INFO:root:using device: cuda
+INFO:root:Loaded checkpoint sucessfully
+INFO:root:Loaded checkpoint sucessfully
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:40:29] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:40:29] "[35m[1mPOST /instantiate HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.28:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 862-302-684
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:42:23] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:42:23] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:root:using device: cuda
+INFO:root:using device: cuda
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:42:24] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:42:24] "POST /predict HTTP/1.1" 200 -
+INFO:root:Loaded checkpoint sucessfully
+INFO:root:Loaded checkpoint sucessfully
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:42:25] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:42:25] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:42:31] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:42:31] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:42:31] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:42:31] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:42:31] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:1
+INFO:root:2
+INFO:root:For numpy array image, we assume (HxWxC) format
+INFO:root:Computing image embeddings for the provided image...
+INFO:root:Image embeddings computed.
+INFO:root:Prédiction effectuée
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:44:06] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:44:29] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:44:29] "OPTIONS /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:44:29] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:44:29] "POST /instantiate HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:44:30] "OPTIONS /predict HTTP/1.1" 200 -
+INFO:root:1
+INFO:root:2
+INFO:root:For numpy array image, we assume (HxWxC) format
+INFO:root:Computing image embeddings for the provided image...
+INFO:root:Image embeddings computed.
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 15:44:33] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
